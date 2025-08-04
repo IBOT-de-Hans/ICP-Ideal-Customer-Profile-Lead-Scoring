@@ -68,7 +68,7 @@ The dataset includes **10,000 synthetic company records** with the following str
 
 🗂️ The dataset is located at:
 
-/kaggle/input/icp-dataset/static_lead_dataset_10000_filter.csv
+[/kaggle/input/icp-dataset/static_lead_dataset_10000_filter.csv](https://www.kaggle.com/datasets/hanssanjaya/icp-dataset/data?select=static_lead_dataset_10000.csv)
 
 If you're running this project **locally**, make sure to:
 
