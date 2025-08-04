@@ -81,7 +81,7 @@ If you're running this project **locally**, make sure to:
 ## 📒 Notebook Structure
 
 All logic is implemented in a single Jupyter notebook:  
-📘 **`icp-with-ui-ux (1).ipynb`**
+📘 **`icp-with-ui-ux_Kaggle.ipynb`**
 
 The notebook is structured into the following parts:
 
